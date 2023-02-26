@@ -1,5 +1,5 @@
 # Kija
-Kija is a baby esoteric programming language which uses numbers in an array to output values and statements but uses no characters at all. The intepreter is made with about 20 lines of python having a small footprint of only 1.98 KB (2,031 bytes). Its very basic right now but can be improved and expanded (albiet at the expense of the byte amount)
+Kija is a baby esoteric programming language which uses numbers in an array to output values and statements but uses no characters at all. The intepreter is made with about 20 lines of python having a small footprint of only 1.98 KB (2,031 bytes)(0,0019 megabytes). Its very basic right now but can be improved and expanded (albiet at the expense of the byte amount)
 
 ## 'Syntax'
 I put Syntax in quotes because its not really a syntax so to speak. But here it is, nonetheless.<br>
