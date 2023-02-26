@@ -1,5 +1,4 @@
 >>(60-8-5-12-12-15-60-48-60-67-1-2-3-4-5-6-7-8-9-10-60) ||this line would be in python: print("HELLO ABCDEFGHIJ")||
 >>(28-27-27-27-48-28-28-27-27) ||this line would be in python: print(1000+1100)||
->>(60-56-30-30-54-27-57-30-32-68-8-5-12-12-15-63-67-20-8-9-19-67-9-19-67-11-9-10-1-56-27-30-30-54-27-68-60)
-||^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^||
-||this line would be in python: print("\033[0;35mHello, World, this is KPP, a random esoteric minilang\033[0m")||
+>>(60-56-30-30-54-27-57-30-32-68-8-5-12-12-15-63-67-20-8-9-19-67-9-19-67-11-9-10-1-56-27-30-30-54-27-68-60) ||this line would be in python: print("\033[0;35mHello, World, this is KPP, a random esoteric minilang\033[0m")||
+
